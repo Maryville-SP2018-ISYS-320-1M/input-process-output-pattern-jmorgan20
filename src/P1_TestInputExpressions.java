@@ -2,22 +2,22 @@ import java.util.Scanner;
 
 /*
 	ISYS 320
-	Name(s):
+	Name(s):Jason Morgan	
 	Date: 
 */
 
 /*
  Your expected results after the input is provided:
  
- 1.
- 2.
- 3. 
- 4.
+ 1.34.50
+ 2.6
+ 3. 25.00 error only is looking for numbers
+ 4.million error only is looking for numbers
  
- 5.
- 6.
- 7.
- 8.
+ 5.500 error only is looking for numbers
+ 6.0
+ 7.none error only is looking for numbers
+ 8.645
   
  */
 
